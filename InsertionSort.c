@@ -17,7 +17,7 @@ int main(){
 		{
 			a[j]=a[j-1];
 			j--;
-			//descomentar este for para ver cambios en cada iteeracion
+			//descomentar este for para ver cambios en cada iteracion
 			/*
 			printf("a =[");
 			int ii;
